@@ -28,7 +28,10 @@
 🔗 Minha Stack Tecnológica inclui:
 
 Back-end: Java Spring Boot e JavaServer Faces
+
 Front-end: Angular e JavaServer Faces
+
 Banco de Dados: MySQL, MongoDB
 Ferramentas: Git, Docker
+
 🚀 Estou sempre em busca de novos desafios e aprendizado contínuo. Se você procura um profissional comprometido, criativo e pronto para contribuir com sua equipe, estou à disposição para conversar e explorar oportunidades.
